@@ -1,0 +1,15 @@
+html, body {
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: skyblue;
+    color: darkblue;
+    font-family: Tahoma 
+  }
+
+
+a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
